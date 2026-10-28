@@ -248,8 +248,6 @@ All 146 v2 commits are under Kush's account and list one file each ([`CHANGELOG.
 - **Audio:** sound generator script, audio manager, music crossfade.
 - **Testing and tools:** 30 unit tests, demo autoplay with an audit log, level converter.
 
-v2 was developed with AI pair-programming assistance (Claude Code). Kush directed the work and verified it with tests and play-throughs.
-
 ### v1: Arshpreet Singh Gill (2023135) and Kush Tokas (2023296), 2024
 
 The original course submission, split about evenly (75 and 78 commits on the original `main`):
